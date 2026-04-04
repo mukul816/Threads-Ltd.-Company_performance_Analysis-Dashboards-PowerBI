@@ -16,6 +16,7 @@ https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195126.png
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195138.png
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195149.png
+https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195158.png
 
 # Tools Used
 Power BI
