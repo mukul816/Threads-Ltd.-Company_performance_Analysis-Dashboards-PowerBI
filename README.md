@@ -11,7 +11,7 @@ Track key KPIs like revenue, profit, and sales
 
 Support executive-level decision making
 # Dashboard Preview
-
+https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195104.png
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195116.png
 
 # Tools Used
