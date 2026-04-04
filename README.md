@@ -12,12 +12,21 @@ Track key KPIs like revenue, profit, and sales
 Support executive-level decision making
 # Dashboard Preview
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195104.png
+
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195116.png
+
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195126.png
+
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195138.png
+
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195149.png
+
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195158.png
+
 https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/blob/main/Screenshot%202026-04-04%20195208.png
+
+# Datasets
+https://github.com/mukul816/Threads-Ltd.-Company_performance_Analysis-Dashboards-PowerBI/tree/main/Datasets
 
 # Tools Used
 Power BI
