@@ -58,4 +58,4 @@ Explore dashboard interactively
 
 # Author
 
-Mukul Girdhar
+Mukul
